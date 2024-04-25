@@ -9,7 +9,7 @@
     <div class="container">
         <div class="subject">
             <h1>Subject Compilation of Activities</h1>
-            <h1>Subject: CSST-104</h1>
+            <h2>Subject: CSST-104</h2>
             <h4>Pantanoza, Andrel John M.</h4>
             <h4>BSCS-3A-IS</h4>
             <div class="section">
