@@ -1,7 +1,7 @@
 /* Reset default styles */
 body {
     font-family: 'Comic Sans MS', cursive; /* Fun and playful font */
-    background-color: #ffedde; /* Light orange background */
+    background-color: #bfe6ff; /* Light blue background */
     color: #333; /* Dark text color */
     margin: 0;
     padding: 0;
@@ -22,14 +22,14 @@ body {
     padding: 20px;
     border-radius: 20px; /* Rounded corners */
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Soft box shadow */
-    background-color: #fff; /* White background */
+    background-color: #f0f0f0; /* Light gray background */
 }
 
 /* Heading styles */
 .subject h1,
 .subject h4 {
     text-align: center;
-    color: #ff6600; /* Orange heading text */
+    color: #ff6699; /* Pink heading text */
     font-weight: bold; /* Bold font weight */
 }
 
@@ -39,9 +39,9 @@ body {
 }
 
 .section h2 {
-    color: #ff6600; /* Orange section heading text */
+    color: #ff6699; /* Pink section heading text */
     font-size: 28px; /* Larger font size */
-    border-bottom: 4px solid #ff6600; /* Thick orange underline */
+    border-bottom: 4px solid #ff6699; /* Thick pink underline */
     padding-bottom: 12px; /* Increased padding */
 }
 
@@ -53,7 +53,7 @@ body {
 
 .section ul li {
     padding: 12px 0;
-    border-bottom: 2px solid #ffcc99; /* Light orange border between items */
+    border-bottom: 2px solid #ffc0cb; /* Light pink border between items */
 }
 
 .section ul li:last-child {
@@ -62,11 +62,21 @@ body {
 
 /* Link styles */
 .section ul li a {
-    color: #ff6600; /* Orange link text */
+    color: #ff6699; /* Pink link text */
     text-decoration: none;
     font-weight: bold; /* Bold font weight */
 }
 
 .section ul li a:hover {
-    color: #ff9933; /* Lighter orange on hover */
+    color: #ffccff; /* Lighter pink on hover */
+}
+
+/* Bunny image */
+.bunny-image {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bunny-image img {
+    width: 150px;
 }
