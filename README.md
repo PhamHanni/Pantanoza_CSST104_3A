@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h2>Subject Compilation of Activities</h2>
+    <title>Subject Compilation of Activities</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -32,12 +32,15 @@
                     <li><a href="Pantanoza-Collab-Activity2-3A.ipynb" target="_blank">Activity 2 - Deterministic Finite Automata</a></li>
                     <li><a href="Pantanoza-Collab-Activity3.ipynb" target="_blank">Activity 3 - Sales Data Analysis Report</a></li>
                 </ul>
-            </div>           
+            </div>
             <div class="section">
                 <h2>Midterm</h2>
                 <ul class="midterm">
                     <li><a href="3A-PANTANOZA-MIDTERM.ipynb" target="_blank">Midterm - Midterm Practical Exam using Logistic Regression Model and Linear Regression Model</a></li>
                 </ul>
+            </div>
+            <div class="bunny-image">
+                <img src="bunny.png" alt="Bunny">
             </div>
         </div>
     </div>
