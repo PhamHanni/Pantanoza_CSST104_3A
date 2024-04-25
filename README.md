@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1>Subject Compilation of Activities</h1>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <div class="subject">
-            <h1>Subject Compilation of Activities</h1>
             <h2>Subject: CSST-104</h2>
             <h4>Pantanoza, Andrel John M.</h4>
             <h4>BSCS-3A-IS</h4>
@@ -39,6 +39,11 @@
                     <li><a href="3A-PANTANOZA-MIDTERM.ipynb" target="_blank">Midterm - Midterm Practical Exam using Logistic Regression Model and Linear Regression Model</a></li>
                 </ul>
             </div>
+            <!-- Add bunny image div here -->
+            <div class="bunny-image">
+                <img src="bunny.png" alt="Bunny">
+            </div>
+            <!-- End of bunny image div -->
         </div>
     </div>
 </body>
