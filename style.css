@@ -1,8 +1,8 @@
 /* Reset default styles */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #F9F9F9; /* Light gray background */
-    color: #000; /* Black text */
+    font-family: 'Comic Sans MS', cursive; /* Fun and playful font */
+    background-color: #ffedde; /* Light orange background */
+    color: #333; /* Dark text color */
     margin: 0;
     padding: 0;
 }
@@ -20,8 +20,8 @@ body {
     width: 90%; /* Set width to 90% of the viewport width */
     max-width: 800px; /* Maximum width of the subject container */
     padding: 20px;
-    border-radius: 2px;
-    box-shadow: 0 100px 200px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+    border-radius: 20px; /* Rounded corners */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Soft box shadow */
     background-color: #fff; /* White background */
 }
 
@@ -29,7 +29,8 @@ body {
 .subject h1,
 .subject h4 {
     text-align: center;
-    color: #000; /* Black heading text */
+    color: #ff6600; /* Orange heading text */
+    font-weight: bold; /* Bold font weight */
 }
 
 /* Section headings */
@@ -38,10 +39,10 @@ body {
 }
 
 .section h2 {
-    color: #000; /* Black section heading text */
-    font-size: 24px;
-    border-bottom: 2px solid #000; /* Black underline */
-    padding-bottom: 8px;
+    color: #ff6600; /* Orange section heading text */
+    font-size: 28px; /* Larger font size */
+    border-bottom: 4px solid #ff6600; /* Thick orange underline */
+    padding-bottom: 12px; /* Increased padding */
 }
 
 /* List styles */
@@ -52,7 +53,7 @@ body {
 
 .section ul li {
     padding: 12px 0;
-    border-bottom: 1px solid #ccc; /* Light gray border between items */
+    border-bottom: 2px solid #ffcc99; /* Light orange border between items */
 }
 
 .section ul li:last-child {
@@ -61,10 +62,11 @@ body {
 
 /* Link styles */
 .section ul li a {
-    color: #000; /* Black link text */
+    color: #ff6600; /* Orange link text */
     text-decoration: none;
+    font-weight: bold; /* Bold font weight */
 }
 
 .section ul li a:hover {
-    text-decoration: underline; /* Underline on hover */
+    color: #ff9933; /* Lighter orange on hover */
 }
