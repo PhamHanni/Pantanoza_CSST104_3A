@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Subject Compilation of Activities</title>
+    <h2>Subject Compilation of Activities</h2>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
