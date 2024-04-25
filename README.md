@@ -39,9 +39,6 @@
                     <li><a href="3A-PANTANOZA-MIDTERM.ipynb" target="_blank">Midterm - Midterm Practical Exam using Logistic Regression Model and Linear Regression Model</a></li>
                 </ul>
             </div>
-            <div class="bunny-image">
-                <img src="bunny.png" alt="Bunny">
-            </div>
         </div>
     </div>
 </body>
